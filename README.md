@@ -9,4 +9,10 @@
 
 ## Course Project
 
-Wearable Scheduler
+## Wearable Scheduler
+
+Hardware Required
+
+The hardware being used for this project includes:
+
+1. ESP32 micro-controller.
